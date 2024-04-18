@@ -14,6 +14,7 @@ dependencies:
   - matplotlib-base=3.8.0
   - matplotlib-inline=0.1.6
   - numpy-base=1.26.4
+  - opencv=4.9.0
   - pandas==2.2.0
   - pandas-flavor==0.6.0
   - plotly==5.18.0
@@ -23,6 +24,4 @@ dependencies:
   - scipy==1.12.0
   - seaborn==0.11.0
   - widgetsnbextension=4.0.10
-  - pip:
-     - opencv-contrib-python==4.9.0.80
 prefix: /Users/patrikpolgari/miniconda3/envs/test
