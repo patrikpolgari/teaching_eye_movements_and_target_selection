@@ -24,6 +24,6 @@ dependencies:
   - widgetsnbextension=4.0.10
   - pip
   - pip:
-    - opencv-contrib-python==4.9.0.80
+    - opencv-python-headless
   
 prefix: /Users/patrikpolgari/miniconda3/envs/test
